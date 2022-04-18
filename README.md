@@ -1,4 +1,7 @@
 # Web Browser :orange:BusCaqui:orange:
+
+![Design sem nome](https://user-images.githubusercontent.com/85628972/163893581-b06f7d53-75e5-49c4-aa81-2cecdb0d81e8.png)
+
 This app simulates a web browser, the browser have the following controls:
 - Searchbar
 - Reload Page Button
@@ -9,10 +12,7 @@ And it supports the light mode and dark mode of the system!
 
 </br>
 
-<img align="left" width="350px"  src="https://user-images.githubusercontent.com/85628972/163890364-cd267abe-11a1-4409-8a29-104c8f9a6db8.png">
-<img align="right" width="350px" src="https://user-images.githubusercontent.com/85628972/163890438-f6bf636e-a592-4771-b8be-169dba8b3252.png">
-
-<h2 align="center"> Used Technologies </h3>
+## 👨‍💻Used Technologies
 
 - Viewcode  
 - WebKit
