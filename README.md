@@ -1,6 +1,7 @@
 # Web Browser :orange:BusCaqui:orange:
 
-![Design sem nome](https://user-images.githubusercontent.com/85628972/163893581-b06f7d53-75e5-49c4-aa81-2cecdb0d81e8.png)
+![Main Image](https://user-images.githubusercontent.com/85628972/163893834-14a228d0-40be-4a8b-a6a3-9e17af072783.png)
+
 
 This app simulates a web browser, the browser have the following controls:
 - Searchbar
