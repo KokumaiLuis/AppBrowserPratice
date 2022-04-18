@@ -11,7 +11,6 @@ And it supports the light mode and dark mode of the system!
 
 <img align="left" width="350px"  src="https://user-images.githubusercontent.com/85628972/163890364-cd267abe-11a1-4409-8a29-104c8f9a6db8.png">
 <img align="right" width="350px" src="https://user-images.githubusercontent.com/85628972/163890438-f6bf636e-a592-4771-b8be-169dba8b3252.png">
-<img align="center" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/85628972/163890020-eecbdfee-bc6e-4a4c-ab4b-e557baae4e41.png">
 
 <h2 align="center"> Used Technologies </h3>
 
@@ -20,16 +19,6 @@ And it supports the light mode and dark mode of the system!
 - NavigationController
 - SearchbarController
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 
 ## :heavy_check_mark: Project Status
